@@ -1,0 +1,17 @@
+{
+    "name": "mdeskandari/fstream",
+    "description": "PHP file handling using OOP classes",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mdeskandari\\Fstream\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Eskandari",
+            "email": "mdskandari@outlook.com"
+        }
+    ],
+    "require": {}
+}
