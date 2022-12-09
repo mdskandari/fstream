@@ -1,6 +1,7 @@
 {
     "name": "mdeskandari/fstream",
     "description": "PHP file handling using OOP classes",
+    "minimum-stability": "alpha",
     "license": "MIT",
     "autoload": {
         "psr-4": {
